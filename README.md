@@ -7,7 +7,8 @@ I am building projects in **Data Engineering** and **Ethical Hacking** to streng
 
 # 📊 Data Engineering Projects
 
-  1.| E-Commerce Database System | [Open Repository](https://github.com/themohitt133/ecommerce-database-system) | 
+  1. | Student Record Management System | [Open Repository](https://github.com/themohitt133/student-record-management-system) | 
+  2. | E-Commerce Database System | [Open Repository](https://github.com/themohitt133/ecommerce-database-system) | 
 
 
 # 🔐 Ethical Hacking Projects
