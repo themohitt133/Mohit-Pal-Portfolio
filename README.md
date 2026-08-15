@@ -9,6 +9,7 @@ I am building projects in **Data Engineering** and **Ethical Hacking** to streng
 
   1. | Student Record Management System | [Open Repository](https://github.com/themohitt133/student-record-management-system) | 
   2. | E-Commerce Database System | [Open Repository](https://github.com/themohitt133/ecommerce-database-system) |
+  3. | linux-log-analyzer | [Open Repository](https://github.com/themohitt133/linux-log-analyzer) |
      
      
 
