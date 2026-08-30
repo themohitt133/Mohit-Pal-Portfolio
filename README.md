@@ -16,6 +16,7 @@ I am building projects in **Data Engineering** and **Ethical Hacking** to streng
 # 🔐 Ethical Hacking Projects
 
   1. | linux-automation-toolkit | [open Repository](https://github.com/themohitt133/linux-automation-toolkit.git) |
+  2. | network-packet-analyzer | [open Repository](https://github.com/themohitt133/network-packet-analyzer) |
      
 
 
