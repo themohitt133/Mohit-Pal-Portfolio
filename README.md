@@ -10,6 +10,7 @@ I am building projects in **Data Engineering** and **Ethical Hacking** to streng
   1. | Student Record Management System | [Open Repository](https://github.com/themohitt133/student-record-management-system) | 
   2. | E-Commerce Database System | [Open Repository](https://github.com/themohitt133/ecommerce-database-system) |
   3. | linux-log-analyzer | [Open Repository](https://github.com/themohitt133/linux-log-analyzer) |
+  4. | sales-data-analysis-pipeline | [Open Repository](https://github.com/themohitt133/sales-data-analysis-pipeline) |
      
      
 
@@ -17,6 +18,7 @@ I am building projects in **Data Engineering** and **Ethical Hacking** to streng
 
   1. | linux-automation-toolkit | [open Repository](https://github.com/themohitt133/linux-automation-toolkit.git) |
   2. | network-packet-analyzer | [open Repository](https://github.com/themohitt133/network-packet-analyzer) |
+  3. | basic-security-automation-tool | [open Repository](https://github.com/themohitt133/basic-security-automation-tool) |
      
 
 
